@@ -15,7 +15,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Inicio',
+          'Inicio' ,
         ),
       ),
       body: Padding(
